@@ -1,0 +1,58 @@
+System:
+  OS: Windows 8.1  (6.3.9600) 64bit
+  CPU: Intel(R) Core(TM) i7-3517U CPU @ 1.90GHz, count: 4
+  Physical RAM: 3982 MB
+  Addressable RAM: 2048 MB
+
+D3D9:
+  Renderer: Microsoft Basic Render Driver
+  VendorID: 1414
+  Driver: d3d10warp.dll 6.3.9600.16384
+  VRAM: 256 (via DXGI)
+
+OpenGL:
+  Version: 1.1.0
+  Vendor: Microsoft Corporation
+  Renderer: GDI Generic
+  VRAM: 256 (via DXGI)
+  Extensions: GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+
+User locale: en-US
+System locale: en-US
+
+Running processes:
+Unity.exe (2996)
+    path: D:\Unity\Editor\Unity.exe
+    company:  Unity Technologies ApS
+    product:  Unity
+    filedesc: Unity Editor
+    filever:  4.6.1.51269
+    prodver:  4.6.1.51269
+firefox.exe (2320)
+    path: C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+    company:  Mozilla Corporation
+    product:  Firefox
+    filedesc: Firefox
+    filever:  34.0.5.5443
+    prodver:  34.0.5.0
+devenv.exe (2108)
+    path: D:\VisualStudio\Common7\IDE\devenv.exe
+    company:  Microsoft Corporation
+    product:  Microsoft® Visual Studio® 2013
+    filedesc: Microsoft Visual Studio 2013
+    filever:  12.0.31101.0
+    prodver:  12.0.31101.0
+Microsoft.Alm.Shared.Remoting.RemoteContainer.dll (332)
+    path: C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Alm.Shared.Remoting.RemoteContainer\v4.0_12.0.0.0__b03f5f7f11d50a3a\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+    company:  Microsoft Corporation
+    product:  Microsoft® Visual Studio® 2013
+    filedesc: Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+    filever:  12.0.30501.0
+    prodver:  12.0.30501.0
+UnityBugReporter.exe (2384)
+    path: D:\Unity\Editor\UnityBugReporter.exe
+    company:  Unity Technologies ApS
+    product:  Unity Bug Reporter
+    filedesc: Unity Bug Reporter
+    filever:  4.6.1.51269
+    prodver:  4.6.1.51269
