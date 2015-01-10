@@ -4,7 +4,8 @@ using System.Collections;
 public class Player : MonoBehaviour {
 
     public GameObject Bullet;
-    public GameObject Muzzle;
+	public GameObject MuzzleLeft;
+	public GameObject MuzzleRight;
 
     CharacterController controller;
 	// Use this for initialization
@@ -20,10 +21,15 @@ public class Player : MonoBehaviour {
         controller.Move(this.transform.forward * Input.GetAxis("Vertical"));
 	
         //Shoot bullets
-        if (Input.GetAxis("Fire1") > 0)
+        if (Input.GetAxis("Fire2") > 0)
         {
-           GameObject bullet = (GameObject)Instantiate(Bullet, this.Muzzle.transform.position, Quaternion.identity);
+           GameObject bullet = (GameObject)Instantiate(Bullet, this.MuzzleRight.transform.position, Quaternion.identity);
            bullet.rigidbody.AddForce(this.transform.forward * 500);
         }
+		if (Input.GetAxis("Fire1") > 0)
+		{
+		   GameObject bullet = (GameObject)Instantiate(Bullet, this.MuzzleLeft.transform.position, Quaternion.identity);
+		   bullet.rigidbody.AddForce(this.transform.forward * 500);
+		}
     }
 }
