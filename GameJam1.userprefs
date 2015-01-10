@@ -1,16 +1,16 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SquareCamera.cs">
     <Files>
-      <File FileName="Assets\Player.cs" Line="22" Column="2" />
-      <File FileName="Assets\SpawnManager.cs" Line="34" Column="1" />
-      <File FileName="Assets\SquareCamera.cs" Line="24" Column="2" />
-      <File FileName="c:\Users\SDA\Documents\Projects\GameJam1\Assets\Bullet.cs" Line="26" Column="13" />
+      <File FileName="Assets\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\SpawnManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\SquareCamera.cs" Line="16" Column="38" />
+      <File FileName="c:\Users\SDA\Documents\Projects\GameJam1\Assets\Bullet.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="C:\Users\SDA\Documents\Projects\GameJam1\Assets\SquareCamera.cs" line="23" />
+      <Breakpoint file="C:\Users\SDA\Documents\Projects\GameJam1\Assets\SquareCamera.cs" line="19" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
